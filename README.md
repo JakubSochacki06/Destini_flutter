@@ -10,14 +10,6 @@
  Short story game created in Flutter
   
   
- ## Screenshots 
-  
- ![App Screenshot](https://github.com/JakubSochacki06/quizzler_flutter/blob/master/files/photo1.jpg) 
-  
-  
- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) 
-  
-  
  ## Lessons Learned 
   
  How to use multiple screens and navigate them using Navigator.
